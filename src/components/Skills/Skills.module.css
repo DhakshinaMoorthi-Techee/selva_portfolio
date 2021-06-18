@@ -1,0 +1,25 @@
+.Skills{
+  background-color:whitesmoke;
+}
+.Skills .List ul{
+  color:rgb(14, 13, 13);
+  list-style-type: none;
+  padding: 10px;
+}
+p{
+  color:rgb(22, 21, 21)
+}
+.Skills .Container{
+  display: flex;
+  padding-left: 15cm;
+  padding-bottom: 1cm;
+  font-weight: bolder;
+  
+}
+.Skills .Container .List{
+  flex-basis: 33%;
+  background-color: rgb(72, 21, 212);
+  box-shadow: 0 0 10px 2px white;
+  text-align: center;
+  
+}

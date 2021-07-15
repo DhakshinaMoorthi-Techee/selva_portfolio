@@ -1,5 +1,6 @@
 .AboutMe{
-  background-color: rgb(22, 17, 17);
+  background-color: rgb(24, 23, 23);
+  
 }
 .AboutMe .Container .Photo{
   width: 40%;
@@ -18,9 +19,10 @@
   padding-left: 0.2cm;
 }
 .AboutMe .Container .Text p{
-  color:rgb(10, 196, 202);
- padding-left: 0.3cm;
-  font-size: 23px;
+  color:rgb(12, 181, 187);
+  padding-left: 0.3cm;
+  font-size: 25px;
+  
 }
 .AboutMe .Container{
   display: flex;

@@ -12,8 +12,10 @@ const About = ()=>
           <h2>Hello! I am Selvakumar Balasubramani</h2>
           <p>
             I am Budding developer based in TamilNadu.
-            
-          </p>
+          <br></br>
+          during my training period I completed lot of projects, 
+            <br></br>and I attched my projects import 
+            my github page.<br></br>below I attached my github account.</p>
         </div>
         <div className={classes.Photo}>
           <img className={classes.Me} src={me} alt="me"></img>

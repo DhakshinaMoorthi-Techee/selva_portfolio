@@ -18,7 +18,7 @@ p{
 }
 .Skills .Container .List{
   flex-basis: 33%;
-  background-color: rgb(72, 21, 212);
+  background-color: gray;
   box-shadow: 0 0 10px 2px white;
   text-align: center;
   

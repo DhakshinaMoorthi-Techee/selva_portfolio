@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/selva_portfolio/static/css/main.c584b233.chunk.css",
+    "main.js": "/selva_portfolio/static/js/main.5d53a68d.chunk.js",
+    "main.js.map": "/selva_portfolio/static/js/main.5d53a68d.chunk.js.map",
+    "runtime-main.js": "/selva_portfolio/static/js/runtime-main.dccdeef4.js",
+    "runtime-main.js.map": "/selva_portfolio/static/js/runtime-main.dccdeef4.js.map",
+    "static/js/2.1b9d7381.chunk.js": "/selva_portfolio/static/js/2.1b9d7381.chunk.js",
+    "static/js/2.1b9d7381.chunk.js.map": "/selva_portfolio/static/js/2.1b9d7381.chunk.js.map",
+    "index.html": "/selva_portfolio/index.html",
+    "static/css/main.c584b233.chunk.css.map": "/selva_portfolio/static/css/main.c584b233.chunk.css.map",
+    "static/js/2.1b9d7381.chunk.js.LICENSE.txt": "/selva_portfolio/static/js/2.1b9d7381.chunk.js.LICENSE.txt",
+    "static/media/me.a7a21e34.png": "/selva_portfolio/static/media/me.a7a21e34.png",
+    "static/media/sk18resume.7e9f43df.pdf": "/selva_portfolio/static/media/sk18resume.7e9f43df.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dccdeef4.js",
+    "static/js/2.1b9d7381.chunk.js",
+    "static/css/main.c584b233.chunk.css",
+    "static/js/main.5d53a68d.chunk.js"
+  ]
+}
